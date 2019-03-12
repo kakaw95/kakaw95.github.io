@@ -5,4 +5,4 @@ tags: [test]
 comments: false
 ---
 
-blog test
+this is a test

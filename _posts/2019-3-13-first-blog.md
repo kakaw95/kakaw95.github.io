@@ -1,3 +1,8 @@
-# 第一篇BLOG
+---
+layout: post
+title: "First Blog"
+tags: [test]
+comments: false
+---
 
-blog 测试
+blog test
